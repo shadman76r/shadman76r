@@ -45,4 +45,4 @@
 
 ---
 <img src="https://your-gif-url.com" width="500"/>
-
+---
