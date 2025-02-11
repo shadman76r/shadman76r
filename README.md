@@ -35,7 +35,7 @@
 ---
 
 ## 🔥 3D Contribution Graph
-![3D GitHub Profile](https://github.com/shadman76r/shadman76r/blob/output/github-contribution-grid-snake.svg)
+![3D GitHub Profile](https://raw.githubusercontent.com/shadman76r/shadman76r/output/github-contribution-grid-snake.svg)
 
 ---
 
