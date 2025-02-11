@@ -42,3 +42,7 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
+
+---
+<img src="https://your-gif-url.com" width="500"/>
+
