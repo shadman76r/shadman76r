@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Shadman+Shakib+%7C+Developer;Passionate+about+Web+Automation;Always+learning+new+things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Shadman+Shakib+Alam+%7C+Developer;Passionate+about+Web+Automation;Always+learning+new+things!" alt="Typing SVG" />
 
 ## 👨‍💻 About Me
 💡 I’m a **passionate developer** who loves **automation, AI, and full-stack development**.  
