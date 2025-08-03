@@ -14,7 +14,7 @@
 - **Python** for data science and automation 🤖
 
 🎯 I'm always on the lookout to solve **real-world problems** using **code** and constantly experimenting with **cutting-edge technologies**.  
-✨ Check out my portfolio at [shadman.dev](https://shadman.dev) (you can replace this with your actual portfolio link).
+✨ Check out my portfolio
 
 ---
 
