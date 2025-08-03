@@ -25,6 +25,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### 🔥 Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -45,18 +51,19 @@
 ### 🚀 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadman76r&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
-### 🌍 Top Languages:
+---
+
+## 🔥 Top Languages
+
+### 🌍 My Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadman76r&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadman76r&theme=onedark&column=3&no-bg=true&no-frame=true)
-
----
-
 ## 🔥 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shadman76r&theme=github)
+
+### 🔥 GitHub Contribution Graph:
+![GitHub Contribution Graph](https://raw.githubusercontent.com/shadman76r/shadman76r/main/github-contribution-grid-snake.svg)
 
 ---
 
