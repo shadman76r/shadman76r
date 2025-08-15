@@ -72,21 +72,6 @@
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
-### 🤖 [Automation Toolkit](https://github.com/shadman76r/automation-toolkit)
-Advanced web automation framework using Puppeteer and Python  
-`Python` `JavaScript` `Automation` ⭐ Featured
-
-### 🌐 [Next.js E-commerce](https://github.com/shadman76r/nextjs-ecommerce)
-Modern e-commerce platform with React and Node.js  
-`Next.js` `React` `Express.js` 🚀 Trending
-
-### 📱 [Flutter Health App](https://github.com/shadman76r/flutter-health-app)
-Mobile health tracker with real-time analytics  
-`Flutter` `Dart` `Firebase` 💡 Innovative
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -117,15 +102,6 @@ Mobile health tracker with real-time analytics
 </p>
 
 ---
-
-## 📝 Latest Blog Posts
-
-- [Automating Web Interactions with Puppeteer](https://medium.com/@shadman76r)
-- [State Management in Flutter: Best Practices](https://medium.com/@shadman76r)
-- [Building Scalable APIs with Express.js](https://medium.com/@shadman76r)
-
-[![Medium](https://img.shields.io/badge/Read_More-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shadman76r)
-
 ---
 
 ## 🎮 Fun Fact 
